@@ -8,7 +8,7 @@
 ### Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-christianquispe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-quispe-camasca-171266192/)](https://www.linkedin.com/in/christian-quispe-camasca-171266192/)
-[![Gmail Badge](https://img.shields.io/badge/-slovacus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slovacus@gmail.com)](mailto:christianquispecamasca@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-christianquispecamasca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:slovacus@gmail.com)](mailto:christianquispecamasca@gmail.com)
 
 ## 🔧 Technologies & Tools
 
