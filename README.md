@@ -2,9 +2,6 @@
 
 ## I'm a Front End Developer!!
 
-- 🌱 I’m currently exploring new things in technology. 🤣
-- 🌱 Novice programmer who strives to learn every day.
-
 ### Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-christianquispe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-quispe-camasca-171266192/)](https://www.linkedin.com/in/christian-quispe-camasca-171266192/)
